@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Jurusan;
+use App\Models\Mahasiswa;
 
 class JurusanController extends Controller
 {
